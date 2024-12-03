@@ -78,6 +78,9 @@ Open your browser and visit:
 arduino
 
 http://localhost:4200
+
+
+
 4. Access the Application
 The frontend home page will display features and a button to access the backend login.
 Click "Access Library Portal", and it will redirect you to:
@@ -105,6 +108,8 @@ Add different user roles (e.g., Librarian, Member).
 Include graphical reports for better insights.
 🌐 Cloud Deployment:
 Deploy the app on AWS, Azure, or Heroku.
+
+
 Troubleshooting
 Backend Issues
 Port Conflict: Ensure no other application is using port 9080.
